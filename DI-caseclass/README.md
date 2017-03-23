@@ -5,7 +5,7 @@ Dependency Injection using Reader monad
 Open your terminal and run
 ```
 $ git clone https://github.com/divya2661/Scala.git
-$ cd Scala
+$ cd Scala/example_name
 $ sbt compile
 $ sbt run
 ```
